@@ -17,3 +17,7 @@ So farud is the outlying neurons because out lying neurons are far from majority
 
 ## Map of wining nodes:
 ![capture](https://user-images.githubusercontent.com/30834801/43048336-9d2f90b8-8e03-11e8-84ce-caabbed578bb.PNG)
+
+
+## Fraud List
+![fraudlist](https://user-images.githubusercontent.com/30834801/43048345-d5be1f1c-8e03-11e8-8ba6-d0575c4b3cf1.PNG)
