@@ -18,3 +18,5 @@ neurons and its neighbour. Neighbour is defined manually. So if neurons is far f
  
 Dataset: http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)
 
+Note: If you run this code it may possible that you will get different result. That is because The SOM is not really a foolproof algorithm. With a small dataset, it has high variance problems and it is quite prone to be stochastic.
+
