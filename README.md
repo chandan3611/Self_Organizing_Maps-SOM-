@@ -22,3 +22,5 @@ So farud is the outlying neurons because out lying neurons are far from majority
 
 ## Fraud List
 ![fraudlist](https://user-images.githubusercontent.com/30834801/43048345-d5be1f1c-8e03-11e8-8ba6-d0575c4b3cf1.PNG)
+
+## Note: If you run this code it may possible that you will get different result. That is because The SOM is not really a foolproof algorithm. With a small dataset, it has high variance problems and it is quite prone to be stochastic.
