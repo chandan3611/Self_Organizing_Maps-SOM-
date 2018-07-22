@@ -1,5 +1,6 @@
 
 ## Self Organizing Maps (SOM):
+Dataset: http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)
 
 ## Description:
 Unsupervised deep learning model is going to identify some patters. Here patters mean customers. So its going to do some customers segmentation to identify segment of customers and one of the segments will have customers that are farud.
