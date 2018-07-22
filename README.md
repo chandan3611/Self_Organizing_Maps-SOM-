@@ -16,3 +16,4 @@ That is the stage where we get out SOM with all the wining nodes. Ourliers will 
 So farud is the outlying neurons because out lying neurons are far from majority of the neurons. In order to find outliers we will find mean of Euclidean distance between each neurons and its neighbour. Neighbour is defined manually. So if neurons is far from neighbour then it is outlier
 
 ## Map of wining nodes:
+![capture](https://user-images.githubusercontent.com/30834801/43048336-9d2f90b8-8e03-11e8-84ce-caabbed578bb.PNG)
